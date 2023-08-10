@@ -1,0 +1,23 @@
+{
+  "name": "sc-theme-color",
+  "version": "1.0.0",
+  "description": "성철 개인 프로젝트 전용 테마 색상 라이브러리",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "theme",
+    "vanilla js"
+  ],
+  "author": "scwon",
+  "license": "ISC",
+  "repository": {
+    "url": "https://github.com/scwon/sc-theme-color",
+    "type": "github"
+  },
+  "devDependencies": {
+    "rollup": "^3.28.0",
+    "typescript": "^5.1.6"
+  }
+}
